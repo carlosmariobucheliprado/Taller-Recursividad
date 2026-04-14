@@ -56,10 +56,10 @@ Carlos Mario Bucheli Prado
 This project contains 14 recursion exercises developed in Java using NetBeans.
 
 The workshop is organized into packages according to the type of recursive problem:
-   - `ViewBasicRecursion`
-   - `ViewRecursionArray`
-   - `ViewRecursionMatrix`
-   - `ViewAdvancedRecursion`
+- `basic_Recursion`
+- `recursion_Array`
+- `recursion_Matrix`
+- `advanced_Recursion`
 
 The exercises include:
 - factorial
